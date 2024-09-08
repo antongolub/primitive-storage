@@ -38,7 +38,7 @@
     "eslint-config-prettier": "^9.0.0",
     "prettier-config-qiwi": "^2.1.2",
     "@types/node": "^20.4.1",
-    "concurrently": "^8.2.0",
+    "concurrently": "^9.0.0",
     "esbuild": "^0.18.11",
     "esbuild-node-externals": "^1.8.0",
     "eslint": "^8.44.0",
