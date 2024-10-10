@@ -36,7 +36,7 @@
     "@abstractest/native": "^0.4.0",
     "@abstractest/localstorage": "^0.0.1",
     "eslint-config-prettier": "^9.0.0",
-    "prettier-config-qiwi": "^2.1.2",
+    "prettier-config-qiwi": "^3.0.0",
     "@types/node": "^20.4.1",
     "concurrently": "^8.2.0",
     "esbuild": "^0.18.11",
